@@ -8,8 +8,11 @@
 ## Endpoints:
 
 ### Get All Characters
-```GET https://demon-slayer-api.onrender.com/v1/```
- 
+
+```GET https://demon-slayer-api.onrender.com/v1/``` 
+
+> Query limit: ```GET https://demon-slayer-api.onrender.com/v1?limit=5``` 
+
 | Keys  | Type |
 | ------------- | ------------- |
 | name  | String  |
