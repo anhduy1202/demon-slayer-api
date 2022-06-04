@@ -1,7 +1,7 @@
 # Demon Slayer API
 > A simple web-scraped API for Demon Slayer fans 
 > 
-> Web srcaped from https://kimetsu-no-yaiba.fandom.com
+> Web scraped from https://kimetsu-no-yaiba.fandom.com
 
 ![tanjiro](https://user-images.githubusercontent.com/58461444/171970590-61e55510-c891-4509-aefc-1e8136ca9ee8.gif)
 
